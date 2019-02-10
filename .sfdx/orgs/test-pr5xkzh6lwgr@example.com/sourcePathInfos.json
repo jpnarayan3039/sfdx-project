@@ -32,14 +32,14 @@
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 512,
             "modifiedTime": 1549782118126,
             "changeTime": 1549782118126,
-            "contentHash": "abaad48e83bb4b4f42f78c653e5340cc60517d9f"
+            "contentHash": "abaad48e83bb4b4f42f78c653e5340cc60517d9f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -330,16 +330,14 @@
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 5129,
-            "modifiedTime": 1549774463777,
-            "changeTime": 1549774463777,
-            "contentHash": "a9ddd6b4afca6d788d92558e1093c6a5e0042d54",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 5935,
+            "modifiedTime": 1549783984732,
+            "changeTime": 1549783984732,
+            "contentHash": "35915b1ea72076e7d2ef5d44b0249cfe3529225d"
         }
     ],
     [
@@ -1260,53 +1258,53 @@
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default/settings/OrgPreference.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default/settings/OrgPreference.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6383,
             "modifiedTime": 1549782118109,
             "changeTime": 1549782118109,
-            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 25623,
             "modifiedTime": 1549782118133,
             "changeTime": 1549782118133,
-            "contentHash": "edbd7c2383b45f0b29719760b933831a77c8a671"
+            "contentHash": "edbd7c2383b45f0b29719760b933831a77c8a671",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default/settings",
         {
-            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default/settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1549782118109,
             "changeTime": 1549782118109,
-            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jnarayan/sfdx-chan/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/jnarayan/sfdx-chan/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1549782118133,
             "changeTime": 1549782118133,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
